@@ -28,8 +28,8 @@ Full write-ups for each selected project live in [`projects/`](projects/) — on
 ## Links
 
 - 🌐 Website: WEBSITE_URL
-- 🐙 GitHub Org: GITHUB_ORG_URL
-- 📦 Starter kit: GITHUB_ORG_URL/starter-kit
+- 🐙 GitHub Org: https://github.com/abu-dhabi-ai-proptech-challenge
+- 📦 Starter kit: https://github.com/abu-dhabi-ai-proptech-challenge/starter-kit
 
 ---
 
