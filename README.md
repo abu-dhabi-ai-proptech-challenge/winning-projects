@@ -1,14 +1,14 @@
-# Abu Dhabi AI City Challenge — Winning Projects
+# Abu Dhabi AI PropTech Challenge — Winning Projects
 
 **Building the Intelligence Layer for Land, Investment and Communities**
 
-This repo showcases selected projects from the Abu Dhabi AI City Challenge, hosted by **Cursor** and **eVoost AI** at **Hub71, Abu Dhabi**. It is populated by organizers after the event, with each team's consent.
+This repo showcases selected projects from the Abu Dhabi AI PropTech Challenge, hosted by **Cursor** and **eVoost AI** at **Hub71, Abu Dhabi**. It is populated by organizers after the event, with each team's consent.
 
 ## Award categories
 
 | Award | Winner | Project | Repo | Demo |
 |---|---|---|---|---|
-| 🏆 Best Overall AI City Project | _TBA_ | _TBA_ | — | — |
+| 🏆 Best Overall AI PropTech Project | _TBA_ | _TBA_ | — | — |
 | 🗺️ Best Land Intelligence Prototype | _TBA_ | _TBA_ | — | — |
 | 💼 Best Investment Intelligence Prototype | _TBA_ | _TBA_ | — | — |
 | 🏙️ Best Future Communities Prototype | _TBA_ | _TBA_ | — | — |

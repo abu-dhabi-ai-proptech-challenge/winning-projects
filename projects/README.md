@@ -16,7 +16,7 @@ projects/
 ```markdown
 # <Project Name>
 
-> <Award won> — Abu Dhabi AI City Challenge
+> <Award won> — Abu Dhabi AI PropTech Challenge
 
 **Team:** <team name> (<members>)
 **Track:** <track>
