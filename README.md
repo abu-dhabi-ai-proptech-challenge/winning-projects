@@ -27,7 +27,7 @@ Full write-ups for each selected project live in [`projects/`](projects/) — on
 
 ## Links
 
-- 🌐 Website: https://citygeist-core.lovable.app
+- 🌐 Website: https://challenge.evoost.ai
 - 🐙 GitHub Org: https://github.com/abu-dhabi-ai-proptech-challenge
 - 📦 Starter kit: https://github.com/abu-dhabi-ai-proptech-challenge/starter-kit
 
